@@ -48,8 +48,7 @@ https://console.aws.amazon.com/iam/home#users
 
 1) Asignar los valores correspondientes en el archivo djangos3/settings.py:
 
-
-	  AWS_ACCESS_KEY_ID
+    AWS_ACCESS_KEY_ID
     AWS_SECRET_ACCESS_KEY
     AWS_STORAGE_BUCKET_NAME
 
