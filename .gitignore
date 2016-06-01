@@ -1,0 +1,38 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+### Database ###
+db.sqlite3
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+p2l/secret_key.py
+media
+.coverage
+reports/
